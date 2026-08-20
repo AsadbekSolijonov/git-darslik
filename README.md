@@ -42,7 +42,9 @@ git branch -a              # barcha branchlar, remote'dagilari bilan
 
 ## Darsliklar
 
-Seriya chiqa boshlagach ro'yxat shu yerga qo'shiladi.
+1. [Git nega kerak va uni qanday sozlaymiz?](https://solijonov.uz/writing/git-nega-kerak-va-sozlash/)
+
+Qolganlari chiqqan sari shu ro'yxatga qo'shiladi.
 
 ---
 
