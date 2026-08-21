@@ -11,6 +11,11 @@ def jami():
     return sum(x["summa"] for x in XARAJATLAR)
 
 
+def eng_katta():
+    """Eng qimmat xarajatni qaytaradi."""
+    return max(XARAJATLAR, key=lambda x: x["summa"], default=None)
+
+
 if __name__ == "__main__":
     qoshish(12000, "Non va sut")
     qoshish(45000, "Taksi")
